@@ -1,7 +1,7 @@
 # AppCadastro
 
 ## 📱 Descrição
-O #AppCadastro# permite ao usuário criar uma conta por meio de um cadastro e fazer a listagemn de usuário.
+O *AppCadastro* permite ao usuário criar uma conta por meio de um cadastro e fazer a listagemn de usuário.
 
 ## 🔧 Funcionalidades
 - [X] Entrada de dados(nome, endereço, telefone e registros)
